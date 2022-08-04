@@ -1,4 +1,6 @@
-## BEEN ON HOLIDAY AND DOING IRL LIFE STUFF, BUT WILL GET BACK TO THIS SOON. 
+# This is first candy machine to work properly till mint, without some dependecy or bundler/webpack issue.
+
+## BEEN ON HOLIDAY AND DOING IRL LIFE STUFF, BUT WILL GET BACK TO THIS SOON.
 
 # Metaplex Candy Machine V2 - Next.js
 
@@ -12,11 +14,11 @@ Need web3 help? Support Update Settings by becoming a Cursor holder to receive e
 
 ### To Do:
 
-- [ ] Fix Presale Phase Header (page requires refresh)
-- [ ] Remove unused code
-- [ ] Performance optimization
-- [x] Whitelist signup prevent duplicates
-- [ ] Animations
+-   [ ] Fix Presale Phase Header (page requires refresh)
+-   [ ] Remove unused code
+-   [ ] Performance optimization
+-   [x] Whitelist signup prevent duplicates
+-   [ ] Animations
 
 ---
 
